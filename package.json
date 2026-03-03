@@ -1,0 +1,8 @@
+{
+  "name": "stripe-checkout",
+  "version": "1.0.0",
+  "description": "Stripe Embedded Checkout integration",
+  "dependencies": {
+    "stripe": "^14.0.0"
+  }
+}
